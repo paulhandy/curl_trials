@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/utamaro/curl_trial/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/utamaro/curl_trial/master/LICENSE)
 
 
 # Speed Trials for [Curl](https://github.com/iotaledger/ccurl)
