@@ -57,7 +57,7 @@ user	0m14.700s
 sys	0m0.033s
 ```
 
-about `1.6kH/s`.
+about `1.6MH/s`.
 
 
 ### SSE2 (pow_sse2.c)
@@ -74,7 +74,7 @@ user	0m11.320s
 sys	0m0.040s
 ```
 
-about `2.7kH/s`, x1.7 of the normal program.
+about `2.7MH/s`, x1.7 of the normal program.
 
 
 # Contribution
