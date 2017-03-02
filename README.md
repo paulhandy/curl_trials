@@ -41,8 +41,9 @@ This machine gets about `400kH/s` on original ccurl on CPU PoW.
 By using '-O3' gcc option , it will be about `1.2MH/s`.
 
 and it gets about `320kH/s` on GPU PoW.
-My machine is very very cheap one(about $30), and GPU is one which is embeded in  CPU.
-so it would be much faster if you use good PC or you have a good external GPU.
+
+Note that my machine is very very cheap one(about $30), and GPU is one which is embeded in  CPU.
+It would be much faster if you use good PC or you have a good external GPU.
 
 ### Normal Program (pow_normal.c)
 This program is parallelized to 64 hashes as ccurl without threads. But was optimized by checking results of `gprof`.
