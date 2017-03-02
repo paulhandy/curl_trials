@@ -14,6 +14,7 @@ These programs executes a hash test ,PoW test for MinWeightMagnitude=15 in main 
 
 This requires
 
+* linux (I don't test on Windows.)
 * gcc
 * Intel SSE2 for pow_sse2.c
 
